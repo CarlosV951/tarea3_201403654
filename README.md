@@ -2,7 +2,7 @@
 Carlos Antonio Velasquez Castellanos - 201403654
 
 ## Descripcion
-Manual sobre como realizar backups en base de daos en la nube usando mysql
+Manual sobre como realizar backups en base de datos en la nube usando mysql
 
 ## Utilizando AWS RDS
 
